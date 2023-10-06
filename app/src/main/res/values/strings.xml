@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IoTReady Assignment</string>
+    <string name="plu">PLU</string>
+    <string name="item_name">Chicken Curry Cut</string>
+    <string name="tare">Tare</string>
+    <string name="mrp">MRP</string>
+    <string name="weight">Weight</string>
+    <string name="price">Price</string>
+</resources>
